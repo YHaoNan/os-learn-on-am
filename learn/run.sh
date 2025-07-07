@@ -1,0 +1,1 @@
+qemu-system-x86_64 -hda build/hello-x86_64-qemu -serial stdio -display none
